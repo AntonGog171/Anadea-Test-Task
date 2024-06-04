@@ -1,0 +1,13 @@
+opencv-python
+numpy
+argparse
+torch
+ultralytics
+matplotlib
+requests
+pycocotools
+pillow
+tqdm
+pyyaml
+tensorboard
+tensorflow
