@@ -40,7 +40,7 @@ Anadea-Test-Task/
 │
 ├───input_examples
 │
-├───literature #Literature was used in process
+├───literature 
 │
 ├───python_scripts
 │       infere.py
@@ -57,6 +57,8 @@ Anadea-Test-Task/
 ```
 ### input_examples:
 Folder with images randomly taken from dataset to show model performace
+### literature:
+Literature used in process.
 ### python_scripts:
 Folder with interfere.py script to run the model and train_notebook.ipynb with notebook used for ceration of this model.
 ### tensorboard_logs:
