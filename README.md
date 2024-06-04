@@ -89,5 +89,6 @@ Different areas of the dataset labled as cells, can be cropped and pasted on new
 #### 2) Combined models approach
 Instead of using end-to-end solution, this task can be divived into 2 parts- cell type classification and further segmentation. Such approach can be more effective, as separate segmentation models for each cell type can perform better that one model for all of them.
 
-#### 3) Continue with YOLO architecture
-Logs of training show that all across the training process, model was steadily improving in train/val, which indicates a possibility of further training, but as computing resources were limited, I could not do this.
+## PS
+
+More detailed review with model work examples will be in live presentation :)
