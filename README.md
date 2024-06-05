@@ -33,6 +33,7 @@ As a base architecture fro this task was chosen a YOLOv8, as it is light, robust
 | SkBr3 | 0.93 | 66.5 | | 0.91 | 48.1 | |
 | SK-OV-3 | 0.94 | 54.4 | | 0.85 | 54.7 | |
 
+In terms of latency- YOLO wins, creating a performance-latency tradeoff. More detailed on presentation with team.
 ## Project Structure
 ```
 Anadea-Test-Task/
